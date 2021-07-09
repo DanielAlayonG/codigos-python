@@ -1,6 +1,6 @@
 # Codigos en python
 
-# requerimientos:
+# Requerimientos:
 <ul>
     <li>Python 3 </li>
 </ul>
